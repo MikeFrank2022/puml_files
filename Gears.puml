@@ -102,5 +102,5 @@ CFFFFFFFFFFFFFFFFFFFC00000000000000000000000DFFFFFFFFFFFFFFFFFFFC000000000000000
 }
 
 AzureEntityColoring(Gears)
-!define Gears(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, SyncService, SyncService)
-!define SyncService(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, SyncService, SyncService)
+!define Gears(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, Gears, Gears)
+!define Gears(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, Gears, Gears)
