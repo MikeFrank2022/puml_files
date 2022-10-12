@@ -1,4 +1,4 @@
-sprite $greenway [280x155/16z] {
+sprite $Greenway [280x155/16z] {
 xDBLbKGX4411j7lpZtXvDfB2K8N_taFz6G00000000000000KDxgWpD6EwppJiFAqCQCFCGSlLsT_9KU-MLqPLQLp8p3npbRBPjdcKUD_7Ic6NjdQV5KYTlz
 -9jRPycyGnp7nosobNspr7YoPCxHbn57cPsp7Fx9hzBjodaG9bRd_L_uMoxHgIRkFKcNVyCiRGoMiG0Rro8jvMnSFF__Zh-O5iIYv90ot7WTVpKjraBBdmqD
 lpaYZmKTve3AlHPGarzwmEmA_3XTsl0ESlB8_pU0kRkBpNnl3hnNCn_T22m6Ev6Wx0FgsqjCHjLa1yEJpcNaVTK0vf5h6Gm-zeRNk4TDkbMwOSFs7EkkS43X
@@ -26,6 +26,6 @@ rWN3JW9WyEMoQm_FsqKZLD7gNfVTBqP46nMiT4hTMNtMkd4V9BxdtKvcx_tbSjbz1hIoQqPdVt8bdKym
 xHhHdZwhxIGqQuUKOqo6Dh8HGPuzdjV6sQ0C452420QnYayjyOTTrNS7yDxQlhEdz4TxSM0000210Ep_gw4tsgYo5G00000000000000O04
 }
 
-AzureEntityColoring(greenway)
-!define greenway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, greenway, greenway)
-!define greenway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, greenway, greenway)
+AzureEntityColoring(Greenway)
+!define Greenway(e_alias, e_label, e_techn) AzureEntity(e_alias, e_label, e_techn, AZURE_SYMBOL_COLOR, Greenway, Greenway)
+!define Greenway(e_alias, e_label, e_techn, e_descr) AzureEntity(e_alias, e_label, e_techn, e_descr, AZURE_SYMBOL_COLOR, Greenway, Greenway)
